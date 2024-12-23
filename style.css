@@ -148,26 +148,28 @@ main {
     margin-top: 86px;
     background-color: white;
     gap: 28px;
-   
+
 }
-.react{
-  align-items: center;
-  height: 256px;
-  width: 170px;
-  padding: 30px;
-  box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.848);
+
+.react {
+    align-items: center;
+    height: 256px;
+    width: 170px;
+    padding: 30px;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.848);
 }
 
 #main-db {
     max-width: 209px;
 
 }
+
 /* General form styling */
-footer{
+footer {
     display: flex;
-  margin-left: 348px;
-  margin-top: 178px;
-  align-items: center;
+    margin-left: 348px;
+    margin-top: 178px;
+    align-items: center;
 }
 
 form {
@@ -176,37 +178,41 @@ form {
     border: 1px solid #ccc;
     border-radius: 8px;
     background-color: #FFF8F3;
-  }
-  
-  form h2 {
+}
+
+form h2 {
     text-align: center;
     margin-bottom: 20px;
-  }
-  
-  form label {
+}
+
+form label {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-  }
-  
-  form input {
+}
+
+form input {
     width: 90%;
     margin-bottom: 15px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
-  }
-  
-  /* Footer styles */
-  .form-footer {
+}
+
+/* Footer styles */
+.form-footer {
     text-align: right;
     margin-top: 20px;
-  }
-  
-  #btn3{
+}
+
+#btn3 {
     margin-left: 200px;
-  }
-  .social{
-    gap: 30px;
-  }
-  
+}
+
+.Stray{
+    background-color: #000000;
+}
+.main-last{
+    color: #ffffff;
+    text-align: center;
+}
